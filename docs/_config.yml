@@ -1,0 +1,12 @@
+#basic options
+title: Your awesome title
+author: Github user
+email : sreevarma2003@gmail.com
+
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-minimal
+
+
+
