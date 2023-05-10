@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Migration and Upgrading
 layout: default
 ---
@@ -419,3 +419,4 @@ In addition to customizing the search placeholder, we've also added the ability 
 
 [#1068]: https://github.com/just-the-docs/just-the-docs/pull/1068
 [#1135]: https://github.com/just-the-docs/just-the-docs/pull/1135
+ -->
