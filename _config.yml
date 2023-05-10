@@ -6,7 +6,7 @@ email : sreevarma2003@gmail.com
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 
 
 
