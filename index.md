@@ -6,6 +6,8 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Sreedevi VArma
+# Sreedevi Vrma
 
 Hola! I am Sreedevi
+
+[My CV](docs/Sreedevi_Varma_Resume.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
